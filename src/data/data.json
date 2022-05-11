@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are HiPE",
+    "paragraph": "Developers and designers that craft quality and awesome IT-related services across various platforms to our clients’ budget with our Filipino engineer’s various skillsets – web and mobile development, UI/UX design, graphic design, image editing and website maintenance."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -131,24 +131,24 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/carrie.jpg",
+      "name": "Carrie Yu",
+      "job": "CEO/Full Stack Developer"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/peter.jpg",
+      "name": "Peter Aliasut",
+      "job": "Software Engineer"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/ferjohn.jpg",
+      "name": "Ferjohn Amistad",
+      "job": "Software Engineer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/nicely.jpg",
+      "name": "Nicely Halalan 2022",
+      "job": "Software Engineer"
     }
   ],
   "Contact": {
