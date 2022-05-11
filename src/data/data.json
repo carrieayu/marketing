@@ -99,19 +99,19 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/robin.jpg",
+      "text": "\"It's late in the evening She's wondering what clothes to wear She puts on her makeup And brushes her long blonde hair\"",
+      "name": "Robin Padilla"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/bong.jpg",
+      "text": "\"DU DUT DUT DUT DUT TUU DUT DUT DUT DUUT DUT TUUD DUT\"",
+      "name": "Bong Revilla"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/manny.jpg",
+      "text": "\"Para sa'yo Ang laban na'to Para sa'yo Ang laban na'to ohhh Hindi ako susuko Isisigaw ko sa mundo Para sa'yo Ang laban na'to\"",
+      "name": "Manny Pacquiao"
     },
     {
       "img": "img/testimonials/04.jpg",
@@ -152,10 +152,10 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "address": "707 Ayala Life FGU Center, Cebu Business Park, Cebu City, Philippines",
+    "phone": "Globe - 09451990833 Smart - 09283537156",
+    "email": "hipe-hr-dept@bpoc.co.jp",
+    "facebook": "https://www.facebook.com/hipe.inc",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
