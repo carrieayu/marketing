@@ -20,7 +20,7 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_6n935dd', 'template_a8h12rm', e.target, 's1fdrdPycF7_2aXG0'
       )
       .then(
         (result) => {
@@ -55,6 +55,7 @@ export const Contact = (props) => {
                         name='name'
                         className='form-control'
                         placeholder='Name'
+                        value={name}
                         required
                         onChange={handleChange}
                       />
@@ -67,6 +68,7 @@ export const Contact = (props) => {
                         type='email'
                         id='email'
                         name='email'
+                        value={email}
                         className='form-control'
                         placeholder='Email'
                         required
@@ -80,6 +82,7 @@ export const Contact = (props) => {
                   <textarea
                     name='message'
                     id='message'
+                    value={message}
                     className='form-control'
                     rows='4'
                     placeholder='Message'
