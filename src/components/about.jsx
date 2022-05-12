@@ -12,27 +12,12 @@ export const About = (props) => {
               <h2>About Us</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <h3>Why Choose Us?</h3>
-              <div className="list-style">
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
+                <div className="about-why">
+                Our integrity, quality of work, and adaptation to change of requirements impressed us the most. Also expertise, availability, and professionalism. More clients most impressed by the collaboration that we worked well together. 
+
+                Our engineers provided high-quality, reliable support. They’re particularly excellent at. Their finished work products have received very positive feedback for their usability. They’ve successfully met the client’s requirements and will continue to be an ongoing partner. 
                 </div>
               </div>
-            </div>
           </div>
         </div>
       </div>
